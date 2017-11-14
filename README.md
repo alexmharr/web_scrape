@@ -1,6 +1,6 @@
 # Web Scrape
 
-## This project is designed to test my ability to create a web scraping application for craigslist.com
+## This project is emulated off of datacamps live code along
 
 ### Steps
 
